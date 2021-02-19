@@ -1,0 +1,32 @@
+h1{
+    color:crimson;
+}
+.header {
+    background-color: bisque;
+    display:flex;
+    justify-content: space-between;
+
+}
+.grid{
+    background-color:burlywood ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+p{
+text-align: center;
+}
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+h2{
+    text-align: left;
+    display: flex;
+    justify-content: space-around;
+}
